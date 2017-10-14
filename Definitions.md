@@ -18,6 +18,11 @@
   * **Développeur full-stack**  
   On peut le considérer comme un développeur complet. Il peut aussi bien développer la partie front que la partie back d'un site web.
   
+  Un excellent article qui explique la différence entre un développeur front-end et un développeur back-end: [alticreation](https://www.alticreation.com/difference-developpeur-front-end-et-developpeur-back-end/)
+  
   ## Les langages
   
-  * Html(_HyperText Markup Language_): est un langage de balisage qui permet de structurer et mettre en forme le contenu des pages web.
+  * **Html** (_HyperText Markup Language_): est un langage de balisage qui permet de structurer et mettre en forme le contenu des pages web.  
+
+  * **Css** (_Cascading Style Sheet_): est un langage de feuille de style utilisé pour décrire la présentation d'un document écrit en HTML.  
+  
